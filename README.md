@@ -4,7 +4,7 @@ Run the PERSONALITIX interactive command-line survey and generate a persona Mark
 
 The survey takes about 5 minutes. It shows question progress, remaining questions, and short examples as you go. Some style questions ask you to choose the closest sentence.
 
-From `C:\Users\Gosia\Desktop\Codex`, run:
+From `C:\Users\Desktop\Codex`, run:
 
 ```powershell
 .\persona-builder\persona-survey.cmd
@@ -13,7 +13,7 @@ From `C:\Users\Gosia\Desktop\Codex`, run:
 By default, each output is written to the `personas` folder with this naming format:
 
 ```text
-C:\Users\Gosia\Desktop\Codex\persona-builder\personas\<Persona Name> - <yyyy-MM-dd HH-mm-ss>.md
+C:\Users\Desktop\Codex\persona-builder\personas\<Persona Name> - <yyyy-MM-dd HH-mm-ss>.md
 ```
 
 If you leave the first question blank, the persona is named `Anonymous Persona`.
